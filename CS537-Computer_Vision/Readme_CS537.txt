@@ -1,1 +1,1 @@
-This is course is about computer vision. 
+This course is about computer vision. 

@@ -1,2 +1,2 @@
 # Oregon-State-Comp-Sci
-Projects from my classes at Oregon State University
+This repo containts projects and homeworks from my classes at Oregon State University.

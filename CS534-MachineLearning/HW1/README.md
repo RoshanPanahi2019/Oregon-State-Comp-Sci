@@ -1,5 +1,7 @@
 - Introduction
 - Solution Part 0
+-  1
+-  2
 - Solution Part 1
 - Solution Part 3
 

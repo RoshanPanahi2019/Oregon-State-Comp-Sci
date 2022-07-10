@@ -1,3 +1,10 @@
+- Introduction
+- Solution Part 0
+- Solution Part 1
+- Solution Part 3
+
+
+
 # Introduction: 
 
 
